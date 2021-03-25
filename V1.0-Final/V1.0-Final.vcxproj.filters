@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Base de datos">
+      <UniqueIdentifier>{f5430975-cc91-4c7a-b497-e651d50ec804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Descargas">
+      <UniqueIdentifier>{b2b7d851-0b2e-4d19-b69b-b36ac26eecfb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\LEEME.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\autor_propuesta.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\denuncia.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\detalles_propuesta.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\escritor_interesado.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\existe_interesado.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\existe_propuesta.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\existe_propuestapro.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\existe_propuestas_aceptadas.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\existe_texto_listo.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\muestra.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\nombre_trabajo.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\texto.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Base de datos\tipo_usuario_interesado.txt">
+      <Filter>Base de datos</Filter>
+    </Text>
+    <Text Include="..\..\..\Programacion\Trabajos en C++ (Editor de Texto y .EXE)\Maqueta Interactiva Proyecto VB Text\V1.0 Final\Descargas\texto copadaso.txt">
+      <Filter>Descargas</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
